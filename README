@@ -1,0 +1,13 @@
+FortuneNix
+----------------------------------------------------------------------------------
+
+This is an iPhone implementation of the old school Unix fortune app.
+
+It is a relatively simple first app that I created a while ago in order to learn Objective-C.
+It's sales have not made me rich as I once expected.... ;)  So I'll just post the source for 
+anyone that may be interested.
+
+Some of the code may not be particularly pretty ;)  But if you're interested in using 
+directly using sqlite.. it may be a helpful example. However, I now prefer to use 
+Core Data.
+

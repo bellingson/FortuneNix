@@ -1,0 +1,6 @@
+build
+.DS_Store
+*.pbxuser
+*.modelv3
+*.xcuserstate
+*.xcscheme
